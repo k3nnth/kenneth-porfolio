@@ -1,0 +1,73 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: 'Playfair Display', serif;
+}
+
+body nav{
+	font-family: 'Rubik Dirt', cursive;
+	color: white;
+}
+
+.f-question{
+	font-family: 'Rubik Dirt', cursive;
+	font-size: 1em;
+	color: white;
+}
+
+.question{
+	font-size: 3em;
+}
+
+.button{
+	font-size: 2em;
+}
+
+.about-me-bg{
+	background-image: url(https://cdn.pixabay.com/photo/2018/03/26/14/07/space-3262811_960_720.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.secondary-bg-color{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.projects-bg{
+	background-image: url(https://cdn.pixabay.com/photo/2021/01/01/16/07/clouds-5879037_960_720.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.carousel-item {
+	height: 300px;
+	overflow: hidden;
+	width: 100%;
+}
+
+.carousel-item img {
+	width: 100%;
+	min-height: 100%;
+}
+
+.tools-bg{
+	background-image: url(https://cdn.pixabay.com/photo/2016/07/28/00/46/kawaii-1546834_960_720.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.card-style{
+	width: 18rem;
+}
+
+.contacts-bg{
+	background-image: url(https://img.freepik.com/free-vector/cartoon-landscape-ground-with-green-grass-game-user-interface-illustration_1284-64004.jpg?w=1060&t=st=1660148549~exp=1660149149~hmac=cbc25b4a9d181b5cc7dc5dff31439e941f1ed5e41cdd8101003ad9929fda8094);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
