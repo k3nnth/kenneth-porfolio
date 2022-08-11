@@ -71,3 +71,12 @@ body nav{
 	background-size: cover;
 	background-attachment: fixed;
 }
+
+.btn-darkblue{
+	color: white;
+	background-color: #1c5aa6;
+}
+
+.card-body{
+	min-height: 10rem;
+}
